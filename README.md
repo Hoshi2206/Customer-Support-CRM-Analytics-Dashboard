@@ -11,15 +11,15 @@ Language: DAX (Data Analysis Expressions)
 Visuals: Time-series analysis, Matrix performance reporting, and KPI cards.
 
 # Key Findings
-Technical Stability: Technical issues remain the primary ticket driver (exceeding 200/month baseline). Analysis identified significant seasonal fraud/billing spikes, highlighting a need for proactive monitoring and root-cause analysis.
+- Technical Stability: Even though technical issues have slowly trended downward since early 2025, they’re still our biggest headache, consistently staying above 200 tickets a month. The data also shows some spikes in billing and fraud cases at the end of 2024 and 2025. This signifies these aren't just one-off bugs, but a recurring system issue. The company should really dig into the root cause here and set up better monitoring to catch these holiday-season spikes before they happen.
 
-Agent Performance: Data revealed a performance trade-off between ticket volume and customer satisfaction (CSAT). Identified "quality-first" best practices within the team that can be leveraged for peer-mentorship programs.
+- Agent Performance: The data shows an interesting trade-off between how many tickets an agent closes and their quality score. While some agents are knocking out a high volume of tickets, others (like Chloe Adams) have slightly lower volume but significantly higher customer satisfaction. It looks like the current setup might be rewarding speed over actually solving the problem. Instead of just pushing for more volume, the company could see much better results by sharing best practices from our top-rated agents across the whole team.
 
-Channel Efficiency: Web Forms are our highest-performing channel in terms of both speed and CSAT. Currently, Chat and Email workflows exhibit resolution lags, suggesting an opportunity for process re-engineering rather than immediate additional headcount.
+- Channel Efficiency: It’s clear that not all channels are built the same. Web Forms are currently our best channel; they’re the fastest and get the best feedback from customers. Chat and Email, on the other hand, are trailing behind by a few hours in terms of resolution speed. Before we jump to hiring more people, the company should take a closer look at the workflow for Chat and Email. It feels like the tools or the process might be getting in the agents' way, and smoothing that out could make a huge difference in performance.
 
 # Dashboard Features
-Interactive Filtering: Dynamic slicers for Priority, Channel, and Category allow for deep-dive analysis.
+- Interactive Filtering: Dynamic slicers for Priority, Channel, and Category allow for deep-dive analysis.
 
-KPI Ribbon: Real-time tracking of Total Ticket Volume, Average Resolution Time, and CSAT %.
+- KPI Ribbon: Real-time tracking of Total Ticket Volume, Average Resolution Time, and CSAT %.
 
-Performance Matrix: Agent performance categorised by both volume and satisfaction to identify top performers and training needs.
+- Performance Matrix: Agent performance categorised by both volume and satisfaction to identify top performers and training needs.
