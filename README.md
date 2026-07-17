@@ -3,6 +3,21 @@ This project provides a comprehensive operational audit of a multi-channel CRM d
 
 <img width="1427" height="983" alt="image" src="https://github.com/user-attachments/assets/7f082430-7458-4c8b-aa6a-7c1575c1ba7e" />
 
+# About the Data
+The data used in this analysis is the Customer Support Tickets CRM Dataset, sourced from Kaggle.
+
+This dataset provides a realistic look at customer support operations, featuring over 20,000 ticket records. It includes key operational fields such as:
+
+Ticket Metadata: Ticket IDs, subjects, and issue categories (e.g., Technical, Billing, Fraud).
+
+Operational Metrics: Submission dates, resolution times, and priority levels.
+
+Customer Feedback: Satisfaction scores (1–5 scale).
+
+Agent Performance: Data regarding the assigned support agents and the channel used (Chat, Email, Web Form).
+
+This dataset served as the foundation for the operational audit, allowing for the analysis of trends, agent efficiency, and service quality improvements presented in this project.
+
 # Tech Stack
 Tool: Power BI Desktop
 
