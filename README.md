@@ -8,13 +8,13 @@ The data used in this analysis is the Customer Support Tickets CRM Dataset, sour
 
 This dataset provides a realistic look at customer support operations, featuring over 20,000 ticket records. It includes key operational fields such as:
 
-Ticket Metadata: Ticket IDs, subjects, and issue categories (e.g., Technical, Billing, Fraud).
+- Ticket Metadata: Ticket IDs, subjects, and issue categories (e.g., Technical, Billing, Fraud).
 
-Operational Metrics: Submission dates, resolution times, and priority levels.
+- Operational Metrics: Submission dates, resolution times, and priority levels.
 
-Customer Feedback: Satisfaction scores (1–5 scale).
+- Customer Feedback: Satisfaction scores (1–5 scale).
 
-Agent Performance: Data regarding the assigned support agents and the channel used (Chat, Email, Web Form).
+- Agent Performance: Data regarding the assigned support agents and the channel used (Chat, Email, Web Form).
 
 This dataset served as the foundation for the operational audit, allowing for the analysis of trends, agent efficiency, and service quality improvements presented in this project.
 
