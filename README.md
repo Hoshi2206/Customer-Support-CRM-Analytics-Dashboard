@@ -1,6 +1,8 @@
 # Customer-Support-CRM-Analytics-Dashboard
 This project provides a comprehensive operational audit of a multi-channel CRM dataset covering 2024–2026. By analyzing 20,000+ support tickets, I identified key performance drivers in resolution efficiency, agent quality, and categorical volume.
 
+<img width="1427" height="983" alt="image" src="https://github.com/user-attachments/assets/7f082430-7458-4c8b-aa6a-7c1575c1ba7e" />
+
 # Tech Stack
 Tool: Power BI Desktop
 
